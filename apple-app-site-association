@@ -1,0 +1,13 @@
+
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q3J3P3TNAH.jp.so.UniversalLinkTest", // 上でメモした「Prefix」と「ID」を.(ピリオド)でつなげたもの
+        "paths": [
+                "*",                  // 全許可（ドメイン以下へアクセスされるとアプリが起動される）
+        ]
+      }
+    ]
+  }
+}
